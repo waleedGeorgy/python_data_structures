@@ -1,2 +1,2 @@
-# python_data_structures
+# Python Data Structures
 Classes for data structures that are not supported by Python.
